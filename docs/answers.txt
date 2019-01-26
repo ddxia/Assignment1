@@ -1,0 +1,17 @@
+a)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+b) 5 commits, git rev-list --all --count
+c) Jan 10 16:45:38 2019 -0500, git log --follow .gitignore
+d) Branches are used in Git repositories because it allows new features to be developed independently and it allows users to work on their own revision.
+e) git status displays the current state of the directory, git log displays all of the previous commits.
+f) git log --follow Weapon.h
+g) git log --grep=file
+h)
+I.   Inheritance is how new objects inherit properties of it's parent classes
+II.  Polymorphism is how a single object can have multiple parent classes
+III. Encapsulation is the act of keeping member data hidden from outside classes and instead allowing access/modification through getter and setter methods
+i) The main difference between Dictator and Lieutenants and the Integration Manager workflows is that Dictator and Lieutenants is a multi-tiered Integration Manager workflow.
+j) A team of 100 developers would benefit more from Dictator and Lieutenants instead of Centralized because in a Centralized workflow, there's nobody in charge of resolving conflicts.
