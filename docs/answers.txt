@@ -15,3 +15,6 @@ II.  Polymorphism is how a single object can have multiple parent classes
 III. Encapsulation is the act of keeping member data hidden from outside classes and instead allowing access/modification through getter and setter methods
 i) The main difference between Dictator and Lieutenants and the Integration Manager workflows is that Dictator and Lieutenants is a multi-tiered Integration Manager workflow.
 j) A team of 100 developers would benefit more from Dictator and Lieutenants instead of Centralized because in a Centralized workflow, there's nobody in charge of resolving conflicts.
+
+
+5. The RoleGame prototype features polymorphism in the function overloading of the hit(double armor) function in all of the weapon classes. It features encapsulation by having the name and hit points of the weapon being protected.
